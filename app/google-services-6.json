@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764500490887",
+    "project_id": "gfgfirebase-af986",
+    "storage_bucket": "gfgfirebase-af986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764500490887:android:bb1ceecb56a45f8a661622",
+        "android_client_info": {
+          "package_name": "com.example.gfg_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxim66zIVXIBCNw3HYkLf8fQ7dpmfV4es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
